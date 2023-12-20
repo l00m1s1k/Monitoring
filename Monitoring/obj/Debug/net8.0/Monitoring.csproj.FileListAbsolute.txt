@@ -1,0 +1,14 @@
+C:\Users\Andre\source\repos\Monitoring\Monitoring\bin\Debug\net8.0\Monitoring.exe
+C:\Users\Andre\source\repos\Monitoring\Monitoring\bin\Debug\net8.0\Monitoring.deps.json
+C:\Users\Andre\source\repos\Monitoring\Monitoring\bin\Debug\net8.0\Monitoring.runtimeconfig.json
+C:\Users\Andre\source\repos\Monitoring\Monitoring\bin\Debug\net8.0\Monitoring.dll
+C:\Users\Andre\source\repos\Monitoring\Monitoring\bin\Debug\net8.0\Monitoring.pdb
+C:\Users\Andre\source\repos\Monitoring\Monitoring\obj\Debug\net8.0\Monitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\source\repos\Monitoring\Monitoring\obj\Debug\net8.0\Monitoring.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Monitoring\Monitoring\obj\Debug\net8.0\Monitoring.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Monitoring\Monitoring\obj\Debug\net8.0\Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Monitoring\Monitoring\obj\Debug\net8.0\Monitoring.dll
+C:\Users\Andre\source\repos\Monitoring\Monitoring\obj\Debug\net8.0\refint\Monitoring.dll
+C:\Users\Andre\source\repos\Monitoring\Monitoring\obj\Debug\net8.0\Monitoring.pdb
+C:\Users\Andre\source\repos\Monitoring\Monitoring\obj\Debug\net8.0\Monitoring.genruntimeconfig.cache
+C:\Users\Andre\source\repos\Monitoring\Monitoring\obj\Debug\net8.0\ref\Monitoring.dll
